@@ -1,7 +1,7 @@
 package main
 
 import (
-	"pretty-print/debug"
+	"github.com/solisjose46/pretty-print/debug"
 	"errors"
 )
 
